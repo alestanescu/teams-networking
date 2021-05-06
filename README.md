@@ -1,5 +1,5 @@
 # teams-networking
-Teams job reated networking (linkedin, github)
+Teams job related networking (linkedin, github)
 
 ## TODO
 
